@@ -1,0 +1,25 @@
+{
+  "name": "@foblex/drag-toolkit",
+  "version": "1.1.0",
+  "description": "A TypeScript library providing foundational classes and utilities for implementing drag-and-drop functionality in Angular applications, with support for both mouse and touch events, and designed to work with or without Angular’s NgZone (zoneless applications).",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "author": "Siarhei Huzarevich",
+  "homepage": "https://flow.foblex.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siarheihuzarevich/f-drag-toolkit.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "drag-and-drop",
+    "flow",
+    "typescript",
+    "foblex"
+  ],
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false
+}
